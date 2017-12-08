@@ -11,6 +11,12 @@ namespace UseSystemNetHttp.Test
 		[ExpectedException(typeof(ArgumentNullException))]
 		public void Constructor_NullClient_ThrowsException()
 		{
+			var x = new UseSystemNetHttp(null);
+		}
+
+		[TestMethod]
+		public void Constructor_ClientProvided()
+		{
 			var x = new UseSystemNetHttp(new HttpClient());
 		}
 	}

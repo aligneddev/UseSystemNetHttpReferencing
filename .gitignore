@@ -1,0 +1,8 @@
+packages
+.vs
+TestResults
+UseSystemNetHttp/bin/
+UseSystemNetHttp/obj/
+UseSystemNetHttp.Tests/bin/
+UseSystemNetHttp.Tests/obj/
+*.dll
