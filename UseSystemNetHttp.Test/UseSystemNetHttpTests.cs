@@ -13,5 +13,11 @@ namespace UseSystemNetHttp.Test
 		{
 			var x = new UseSystemNetHttp(new HttpClient());
 		}
+
+		[TestMethod]
+		public void Constructor_GetsClient_Works()
+		{
+			var x = new UseSystemNetHttp(new HttpClient());
+		}
 	}
 }
