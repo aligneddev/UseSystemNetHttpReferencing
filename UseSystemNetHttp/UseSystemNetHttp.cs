@@ -1,4 +1,5 @@
-﻿using System.Net.Http;
+﻿using System;
+using System.Net.Http;
 
 namespace UseSystemNetHttp
 {
@@ -8,7 +9,7 @@ namespace UseSystemNetHttp
 
 	    public UseSystemNetHttp(HttpClient httpClient)
 	    {
-		    _httpClient = httpClient;
+		    _httpClient = httpClient ?? throw new ArgumentNullException(nameof(httpClient));
 	    }
     }
 }
