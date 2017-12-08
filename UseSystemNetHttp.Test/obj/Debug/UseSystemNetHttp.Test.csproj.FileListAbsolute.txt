@@ -1,0 +1,17 @@
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\UseSystemNetHttp.Test.dll
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\UseSystemNetHttp.Test.pdb
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\UseSystemNetHttp.dll
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\UseSystemNetHttp.pdb
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\obj\Debug\UseSystemNetHttp.Test.csprojResolveAssemblyReference.cache
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\obj\Debug\UseSystemNetHttp.Test.csproj.CoreCompileInputs.cache
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\obj\Debug\UseSystemNetHttp.Test.dll
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\obj\Debug\UseSystemNetHttp.Test.pdb
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\UseSystemNetHttp.Test.dll.config
+c:\users\vendor-klogan\source\repos\UseSystemNetHttp\UseSystemNetHttp.Test\bin\Debug\UseSystemNetHttp.dll.config
