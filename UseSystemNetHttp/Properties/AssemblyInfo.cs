@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("UseSystemNetHttp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Daktronics, Inc.")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("UseSystemNetHttp")]
-[assembly: AssemblyCopyright("Copyright © Daktronics, Inc. 2017")]
+[assembly: AssemblyCopyright("Copyright ©, Inc. 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
